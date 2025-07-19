@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Beshwanthsai.github.io/CICD-203",
+  "homepage": "https://balajee-rm.github.io/S109",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
